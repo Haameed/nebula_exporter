@@ -110,11 +110,11 @@ To contribute, please follow these steps:
 I appreciate your effort and will review your pull request as soon as possible
 
 
-After installing OpenNebula, you can start using it with the following command:
+After installing OpenNebula, you can start using this exporter with the following command:
 
 ```bash
 
-./nebula_exporter -config config.yaml
+./nebula_exporter -config config.json
 ```
 ## License
 MIT
